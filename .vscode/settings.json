@@ -1,0 +1,32 @@
+{
+    "cSpell.words": [
+        "asarray",
+        "Bivariate",
+        "cbar",
+        "cmap",
+        "colorbar",
+        "figsize",
+        "fontsize",
+        "ggplot",
+        "kdeplot",
+        "labelsize",
+        "linewidths",
+        "linspace",
+        "minimised",
+        "refi",
+        "seaborn",
+        "statsmodels",
+        "tqdm",
+        "triang",
+        "tricontour",
+        "tricontourf",
+        "triplot",
+        "usetex",
+        "xtick",
+        "yaxis",
+        "ytick"
+    ],
+    "cSpell.ignoreWords": [
+        "Stellenbosch"
+    ]
+}
